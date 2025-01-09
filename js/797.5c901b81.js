@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest_task_vue_vuetify"]=self["webpackChunktest_task_vue_vuetify"]||[]).push([[797],{1797:function(t,e,u){u.r(e),u.d(e,{default:function(){return r}});var s=u(6768),n=u(4073),a=(0,s.pM)({__name:"AllView",setup(t){return(t,e)=>((0,s.uX)(),(0,s.Wv)(n.A,{title:"Все",type:"all"}))}});const l=a;var r=l}}]);
+//# sourceMappingURL=797.5c901b81.js.map

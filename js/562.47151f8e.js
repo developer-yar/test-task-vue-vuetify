@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest_task_vue_vuetify"]=self["webpackChunktest_task_vue_vuetify"]||[]).push([[562],{4562:function(e,t,s){s.r(t),s.d(t,{default:function(){return c}});var u=s(6768),n=s(4073),r=(0,u.pM)({__name:"ProcessedView",setup(e){return(e,t)=>((0,u.uX)(),(0,u.Wv)(n.A,{title:"Обработанные",type:"processed"}))}});const a=r;var c=a}}]);
+//# sourceMappingURL=562.47151f8e.js.map
